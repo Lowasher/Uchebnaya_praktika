@@ -1,0 +1,15 @@
+google.com
+192.168.1.1
+localhost
+gosuslugi.ru
+yandex.ru
+vk.com
+max.ru
+youtube.com
+yahoo.com
+store.steampowered.com
+rkn.gov.ru
+ok.ru
+instagram.com
+amigo.com
+go run Pulse.go -monitor hosts.txt
