@@ -12,6 +12,4 @@ rkn.gov.ru
 ok.ru
 instagram.com
 amigo.com
-go run Pulse.go -monitor hosts.txt
-go run Pulse.go -c 3 hosts.txt
-go run Pulse.go -icmp hosts.txt
+
